@@ -13,8 +13,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Meghana Manchala | Full-Stack Developer",
-  description: "Portfolio of Meghana Manchala, Full-Stack Developer",
+  title: "Meghana Manchala | Portfolio",
+  description:
+    "Project portfolio of Meghana Manchala — full-stack applications across web, mobile, cloud, and AI.",
+  icons: {
+    icon: "/icon.svg?v=2",
+    shortcut: "/icon.svg?v=2",
+    apple: "/icon.svg?v=2",
+  },
 };
 
 export default function RootLayout({

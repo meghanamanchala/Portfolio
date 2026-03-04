@@ -95,7 +95,7 @@ export default function Home() {
         "Mediconnect is a web application that simplifies doctor appointment booking. Built with React (frontend), Node.js & Express (backend), MongoDB (database), and JWT for authentication, it supports user login/logout, CRUD operations for appointments, and smooth frontend-backend integration.",
       tags: ["React", "Node.js", "Express", "MongoDB", "JWT", "REST APIs"],
       repoUrl: "https://github.com/meghanamanchala/S61_Meghana_MediConnect_CapstoneProject.git",
-      liveUrl: "https://s61-meghana-medi-connect-capstone-p.vercel.app/",
+      liveUrl: "https://medi-connect-sand.vercel.app/",
       highlight: true,
     },
   ];

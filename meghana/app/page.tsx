@@ -105,6 +105,7 @@ export default function Home() {
         "ClaimFlow is built using Python with the FastAPI framework for the backend, Vue.js for the frontend, and Supabase PostgreSQL as the cloud database. It uses SQLAlchemy ORM for database operations and JWT with bcrypt for secure authentication. The system provides role-based insurance claim management where policyholders can submit claims and agents or admins can review, approve, and track claims through the complete lifecycle.",
       tags: ["Python", "FastAPI", "Vue.js", "Supabase", "PostgreSQL", "SQLAlchemy", "JWT", "bcrypt"],
       repoUrl: "https://github.com/meghanamanchala/ClaimFlow.git",
+      liveUrl: "https://claims-project.vercel.app/",
       highlight: true,
     },
   ];

@@ -67,7 +67,7 @@ export default function Home() {
       description:
         "Academix is built using TypeScript and Node.js, with a modern frontend framework like React, and uses Docker and Kubernetes for containerized deployment and orchestration. It integrates Google Gemini AI for transcript generation and summaries, supports real-time updates via WebSockets, and follows a complete CI/CD pipeline (Git → Docker → Registry → Kubernetes) for reliable and scalable deployments.",
       tags: ["TypeScript", "Node.js", "React", "Docker", "Kubernetes", "WebSockets", "CI/CD", "Gemini AI"],
-      repoUrl: "https://github.com/kalviumcommunity/S61-0226-Thrive-Devops-With-Kubernetes-And-CI-CD-Academix.git",
+      repoUrl: "https://github.com/meghanamanchala/Academix.git",
       highlight: true,
     },
     {

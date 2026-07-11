@@ -59,11 +59,18 @@ I build reliable, production-ready web applications with a strong focus on clean
 
 ## Featured Projects
 
-Smart Stay  
-Full-stack booking platform using Next.js, MongoDB, Stripe, and Cloudinary.
-
-DevVerse  
-MERN-based developer social platform with real-time chat using Socket.io.
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[SmartStay](https://github.com/meghanamanchala/SmartStay.git)** | Next.js, MongoDB, Stripe, Cloudinary, AI Search | Full-stack rental platform supporting Guest, Host, and Admin roles with natural language search. |
+| **[AskArena](https://github.com/meghanamanchala/AskArena.git)** | SvelteKit, Supabase, PostgreSQL | Real-time event Q&A platform with live subscriptions and Row Level Security. |
+| **[DevVerse](https://github.com/meghanamanchala/devverse.git)** | React, Node.js, Express, MongoDB, Socket.io | MERN-based developer social platform with real-time chat and Clerk authentication. |
+| **[Academix](https://github.com/meghanamanchala/Academix.git)** | React, Node.js, Docker, Kubernetes, WebSockets, Gemini AI | Transcript generation and summary tool with Kubernetes orchestration and CI/CD pipelines. |
+| **[CerebroAtlas](https://github.com/kalviumcommunity/S61-0126-Abyss-Angular-And-Rust-CerebroAtlas)** | Angular, Rust, PostgreSQL | Full-stack digital health record system to securely manage patient medical records. |
+| **[MarketBridge](https://github.com/kalviumcommunity/S61-1225-Nexa-Flutter-And-Firebase-Market-Bridge.git)** | Flutter, Dart, Firebase | Mobile marketplace application connecting farmers and buyers in real-time. |
+| **[MediConnect](https://github.com/meghanamanchala/S61_Meghana_MediConnect_CapstoneProject.git)** | React, Node.js, Express, MongoDB, JWT | Web application to simplify and manage doctor appointment bookings. |
+| **[ClaimFlow](https://github.com/meghanamanchala/ClaimFlow.git)** | FastAPI, Vue.js, Supabase, SQLAlchemy | Role-based insurance claim management system supporting the full claim lifecycle. |
+| **[Flash-Card-Generator](https://github.com/meghanamanchala/Flash-Card-Generator.git)** | Vue.js, Django, DRF, PostgreSQL | Converts large learning content into concise flashcards using a custom REST API. |
+| **[CampusShare](https://github.com/meghanamanchala/CampusShare.git)** | Next.js, Tailwind CSS, Supabase, Vercel | Secure, university-email-verified marketplace bulletin board for campus exchanges. |
 
 ---
 

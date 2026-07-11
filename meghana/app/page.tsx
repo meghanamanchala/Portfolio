@@ -108,6 +108,24 @@ export default function Home() {
       liveUrl: "https://claims-project.vercel.app/",
       highlight: true,
     },
+    {
+      title: "Flash-Card-Generator",
+      month: "Project 09",
+      description:
+        "A full-stack web application built using Vue.js (frontend), Django & Django REST Framework (backend), and PostgreSQL (database) to convert large learning content into concise flashcards. It processes user input text via a REST API, splits it into meaningful chunks, and displays them as easy-to-study flashcards.",
+      tags: ["Vue.js", "Django", "Django REST Framework", "PostgreSQL", "REST API", "Full-Stack"],
+      repoUrl: "https://github.com/meghanamanchala/Flash-Card-Generator.git",
+      highlight: false,
+    },
+    {
+      title: "CampusShare",
+      month: "Project 10",
+      description:
+        "CampusShare is a TypeScript-based marketplace web app built using Next.js App Router, Tailwind CSS, and Supabase (PostgreSQL and Storage), deployed on Vercel. It provides a secure, university-email-verified bulletin board where students can instantly post, claim, and exchange items in real time within their specific campus community.",
+      tags: ["TypeScript", "Next.js", "Tailwind CSS", "Supabase", "PostgreSQL", "Vercel", "Marketplace"],
+      repoUrl: "https://github.com/meghanamanchala/CampusShare.git",
+      highlight: true,
+    },
   ];
 
   const handleProjectCardClick = (project: (typeof projects)[number]) => {
